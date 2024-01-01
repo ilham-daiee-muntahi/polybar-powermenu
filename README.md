@@ -1,5 +1,5 @@
 # polybar-powermenu
-Powermenu module for Polybar. Provides shutdown, reboot and logout options.  
+Powermenu module for Polybar. Provides shutdown, reboot and logout options.(For i3 window manager )  
 
 ## Installation
 Install ```polybar``` and [Material Icons](https://m2.material.io/)
